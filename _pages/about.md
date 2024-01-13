@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Quang!"
+title: "Welcome to My Blog! 🌐"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-### 🧬 Visionary Fusion in Finance and Data Science
+This is where I share my thoughts and knowledge, seamlessly blending languages, switching between Vietnamese and English.
 
-📈 Researching the intersection of fintech, data science, and finance.
+## Research Endeavors 📈
 
-### 🎓 Mastering the Blend: Data Science & Finance Double Major
+I'm delving into the fascinating intersection of fintech, data science, and finance, exploring the latest trends and innovations.
 
-📊 Currently pursuing a double major in data science and finance.
+## Academic Pursuits 📊
 
-### 🌐 Beyond Academia: Math, Philosophy, and Running Enthusiast
+Currently, I'm on the academic journey of pursuing a double major in data science and finance. The exciting world of numbers and algorithms awaits!
 
-📚 Exploring interests in mathematics and philosophy while maintaining a passion for running.
+## Beyond Academia 📚
+
+Away from the academic hustle, I find joy in exploring the realms of mathematics and philosophy. And when not immersed in books, you'll likely find me passionately running towards new challenges.
+
+Stay tuned for more insights and adventures!
 
 
-# Selected Experience
-
-Blank
