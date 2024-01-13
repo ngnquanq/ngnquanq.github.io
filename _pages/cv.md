@@ -9,51 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **B.S. in Finance**, *University of Economics HCMC, Ho Chi Minh City*
+  * *Expected Graduation: 2026*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **B.S. in Data Science**, *University of Economics HCMC, Ho Chi Minh City*
+  * *Expected Graduation: 2025*
+
+# Additional Training
+
+* **VIASM Summer School on Bayesian Statistics**, *VIASM, 2023*
+  * *Attended courses on Bayesian statistics during the summer of 2023.*
+
+* **VIASM Summer School on Data Science**, *VIASM, 2023*
+  * *Participated in data science courses at the VIASM Summer School in the summer of 2023.*
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Skills
 
-Publications
-======
+* **Technical Skills**
+  * *Programming Languages:* SQL, C#, Python
+  * *Frameworks:* PyTorch, Keras, TensorFlow
+
+* **Language Proficiency**
+  * *TOEIC Score:* 850
+
+* **Soft Skills**
+  * *Good Communication Skills*
+  * *Effective Team Collaboration*
+
+# Publication
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service and Leadership
+
+* **Class Monitor**, *University of Economics HCMC, Ho Chi Minh City*
+  * *Current Position*
+
+* **Group Project Leader**, *University of Economics HCMC, Ho Chi Minh City*
+  * *Experience in leading group projects.*
