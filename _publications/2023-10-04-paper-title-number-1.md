@@ -13,4 +13,4 @@ Forecasting stock prices is a challenging topic that has been the subject of man
 
 [Access paper here](https://link.springer.com/chapter/10.1007/978-981-99-5166-6_35)
 
-Recommended citation: Viet, N.Q., Quang, N.N., King, N., Huu, D.T., Toan, N.D., Thanh, D.N.H. (2023). An Exploratory Comparison of LSTM and BiLSTM in Stock Price Prediction. In: Ranganathan, G., Papakostas, G.A., Rocha, Á. (eds) Inventive Communication and Computational Technologies. ICICCT 2023. Lecture Notes in Networks and Systems, vol 757. Springer, Singapore. https://doi.org/10.1007/978-981-99-5166-6_35
+<!-- Recommended citation: Viet, N.Q., Quang, N.N., King, N., Huu, D.T., Toan, N.D., Thanh, D.N.H. (2023). An Exploratory Comparison of LSTM and BiLSTM in Stock Price Prediction. In: Ranganathan, G., Papakostas, G.A., Rocha, Á. (eds) Inventive Communication and Computational Technologies. ICICCT 2023. Lecture Notes in Networks and Systems, vol 757. Springer, Singapore. https://doi.org/10.1007/978-981-99-5166-6_35 -->
