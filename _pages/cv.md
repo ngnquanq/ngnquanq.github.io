@@ -27,6 +27,13 @@ redirect_from:
   
 # Skills
 
+* **Finance and Risk Management Skills**
+  * *Financial Analysis*
+  * *Risk Assessment*
+  * *Investment Evaluation*
+  * *Portfolio Management*
+  * *Financial Modeling*
+
 * **Technical Skills**
   * *Programming Languages:* SQL, C#, Python
   * *Frameworks:* PyTorch, Keras, TensorFlow
