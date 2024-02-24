@@ -11,7 +11,7 @@ redirect_from:
 Rất vui được gặp mọi người! 👋. Mình là **Nguyễn Nhật Quang**! Và dưới đây là một vài thông tin về mình 👽🤪
 
 ## Học vấn 📚:
-* **Cử nhân Khoa học dữ liệu (Data Science)**, Đại học Kinh tế TP. Hồ Chí Minh, 2025 (dự kiến) 🎓
+* **Cử nhân Khoa học dữ liệu (Data Science)**, Đại học Kinh tế TP. Hồ Chí Minh, 2024 🎓
 * **Cử nhân Tài chính (Finance)**, Đại học Kinh tế TP. Hồ Chí Minh, 2026 (dự kiến) 💰
 
 ## Hướng nghiên cứu 🧠:
