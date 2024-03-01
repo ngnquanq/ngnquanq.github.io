@@ -19,7 +19,7 @@ of generating meaningful intent labels and short text clustering while achieving
 high evaluation scores.'
 date: 2024-02-20
 venue: 'Journal of Uncertain Systems'
-paperurl: 'https://www.worldscientific.com/doi/10.1142/S175289092440004X'
+#paperurl: 'https://www.worldscientific.com/doi/10.1142/S175289092440004X'
 citation: ' NQK Ha, NTT Huyen, MTM Uyen, NQ Viet, NN Quang, Dang N. H. Thanh. Customer Intent Mining from Service Inquiries with Newly Improved Deep Embedded Clustering. Journal of Uncertain Systems, 2024 (Scopus).'
 ---
 Discovering user intents plays an indispensable role in natural lan-
