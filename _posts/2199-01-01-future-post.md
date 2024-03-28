@@ -1,12 +1,12 @@
 ---
-title: 'Future Blog Post'
+title: 'Ký sự cắt bao qy đa`u'
 date: 2199-01-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
-published: false
+  - Life
+published: True
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Mình đã cắt bao quy đầu, và dưới đây là trải nghiệm của mình.
+
+Pending
