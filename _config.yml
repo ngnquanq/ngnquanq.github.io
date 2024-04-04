@@ -194,7 +194,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: year-archive
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -202,7 +202,6 @@ defaults:
       comments: true
       share: true
       related: true
-      toc: true
 
   # _pages
   - scope:
