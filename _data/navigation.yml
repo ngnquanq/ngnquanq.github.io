@@ -10,8 +10,9 @@ main:
     url: /year-archive/
     #url: /blog-posts/
 
-  - title: "Side knowledge"
-    # url: /year-archive/
+  # - title: "Side knowledge"
+  #   # url: /year-archive/
+  #   url: /side-knowledge/
     
   - title: "CV"
     url: /cv/
