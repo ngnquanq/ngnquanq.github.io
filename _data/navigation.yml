@@ -11,6 +11,7 @@ main:
     url: /blog-posts/
 
   - title: "Side knowledge"
+    url: /side-knowledge/
     
   - title: "CV"
     url: /cv/
