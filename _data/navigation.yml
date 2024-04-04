@@ -7,7 +7,10 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    #url: /year-archive/
+    url: /blog-posts/
+
+  - title: "Side knowledge"
     
   - title: "CV"
     url: /cv/
